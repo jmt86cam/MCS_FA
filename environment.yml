@@ -1,4 +1,4 @@
-name: neurite-devbio-napari-env
+name: devbio-napari-env
 channels:
   - defaults
   - conda-forge
@@ -397,4 +397,3 @@ dependencies:
   - zlib-ng=2.2.4
   - zstandard=0.23.0
   - zstd=1.5.7
-prefix: C:\Users\jonatmt\AppData\Local\mambaforge\envs\neurite-devbio-napari-env
