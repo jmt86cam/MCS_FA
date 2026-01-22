@@ -52,3 +52,8 @@ conda activate devbio-napari-env
 jupyter lab
 
 ```
+
+\### Example input output of segmentation
+
+
+![Example](images/Example.png)
